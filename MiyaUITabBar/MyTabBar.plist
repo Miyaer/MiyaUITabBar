@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>第一个</string>
+		<key>VCname</key>
+		<string>OneViewController</string>
+		<key>image_selectName</key>
+		<string>listen_select.png</string>
+		<key>imageName</key>
+		<string>listen.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>第二个</string>
+		<key>VCname</key>
+		<string>TwoViewController</string>
+		<key>image_selectName</key>
+		<string>main_select.png</string>
+		<key>imageName</key>
+		<string>main.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>第三个</string>
+		<key>VCname</key>
+		<string>ThreeViewController</string>
+		<key>image_selectName</key>
+		<string>my_select.png</string>
+		<key>imageName</key>
+		<string>my.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>第四个</string>
+		<key>VCname</key>
+		<string>FourViewController</string>
+		<key>image_selectName</key>
+		<string>listen_select.png</string>
+		<key>imageName</key>
+		<string>listen.png</string>
+	</dict>
+</array>
+</plist>
